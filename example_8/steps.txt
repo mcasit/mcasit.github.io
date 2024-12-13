@@ -1,0 +1,12 @@
+/*
+############ Login Form ############
+
+Step: 1 Create Login form
+Step: 2 Use proper method GET or POST based on the requirement
+Step: 3 Check the user is valid in action file
+Step: 4 If user is valid create session of that user
+Step: 5 print welcome message with the username using session variable
+Step: 5 Logout the user
+Step: 6 Destroy session variable of that username 
+Step: 7 Redirect to login file
+*/
