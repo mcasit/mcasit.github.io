@@ -1,0 +1,9 @@
+/*
+########### SESSION ##########
+Step: 1 Start PHP Session
+Step: 2 Add Variable into Session
+Step: 3 Access PHP Session Variable
+Step: 4 Display PHP Session Variable Value
+Step: 5 Remove PHP Session Variable
+Step: 6 Destroy OHO Session
+*/

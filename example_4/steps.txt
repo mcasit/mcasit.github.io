@@ -1,0 +1,9 @@
+
+/*
+############ Display data from MySQL Table ############
+Step: 1 Establish connectivity with MySQL
+Step: 2 Write proper SQL Query
+Step: 3 Display SQL Query (optional)
+Step: 4 Display table data
+Step: 5 Close connection
+*/

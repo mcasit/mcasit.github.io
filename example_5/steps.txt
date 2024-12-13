@@ -1,0 +1,10 @@
+/*
+############ Display data from MySQL Table and Display in HTML Table ############
+Step: 1 Create HTML Table with Proper Values (ie. Static/Hardcoded values)
+Step: 2 Establish connectivity with MySQL
+Step: 3 Write proper SQL Query
+Step: 4 Display SQL Query (optional)
+Step: 5 Display table data
+Step: 6 Convert Static HTML Table using PHP to display dynamic value
+Step: 7 Close connection
+*/

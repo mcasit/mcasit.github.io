@@ -1,0 +1,13 @@
+/*
+############ HTML Forms & Database ############
+Step: 1 Create HTML Forms
+Step: 2 Set proper php action file
+Step: 3 Use proper method GET or POST based on the requirement
+Step: 4 Retrive forms values in PHP
+Step: 5 Print the forms values in PHP
+Step: 6 Establish connectivity with MySQL
+Step: 7 Create Table in MySQL
+Step: 8 Insert data in Table
+Step: 9 Display Last Insert ID for the database entry
+Step: 10 Close the connection
+*/

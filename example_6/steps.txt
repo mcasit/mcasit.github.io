@@ -1,0 +1,35 @@
+/*
+############ Create CRUD(Create, Retrieve, Update, Delete) Operation ############
+
+Step: 1 Establish connectivity with MySQL
+Step: 2 Create HTML Forms
+Step: 3 Use proper method GET or POST based on the requirement
+Step: 4 Set proper php action file for Data Insert
+Step: 5 Create Helper function for Insert into MySQL
+Step: 6 Call helper function action file
+
+Step: 7 Create Static HTML Table for displaying data
+Step: 8 Create Helper function for Selecting data from MySQL
+Step: 9 display data using print_r function
+Step: 10 Convert static table to Dynamic Table
+Step: 11 Add Hyperlink for Create New Entry
+
+Step: 12 Redirect page to Step# 2 (Create HTML Form)
+
+Step: 13 Create Update HTML Forms
+Step: 14 Retrieve  Form data using GET for user_id
+Step: 15 Get the data from MySQL table for the selected user_id
+Step: 16 Fill the Form values for the selected users.  
+Step: 17 Use proper method GET or POST based on the requirement
+Step: 18 Set proper php action file for Data Update
+Step: 19 Create Helper function for Update into MySQL
+Step: 20 Call helper function action file
+Step: 21 Redirect page to Step# 7 (Display Data)
+
+Step: 22 Create action file for Delete data
+Step: 23 Retrieve  Form data using GET for user_id
+Step: 24 Create Helper function for Delete into MySQL
+Step: 25 Call helper function action file
+Step: 26 Redirect page to Step# 7 (Display Data)
+
+*/
